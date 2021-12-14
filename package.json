@@ -1,0 +1,33 @@
+{
+  "name": "ITIS6177-FinalProject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-validator": "^6.13.0",
+    "morgan": "^1.10.0",
+    "react": "^17.0.2",
+    "request": "^2.88.2",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.2.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jessicaruss99/ITIS6177-FinalProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jessicaruss99/ITIS6177-FinalProject/issues"
+  },
+  "homepage": "https://github.com/Jessicaruss99/ITIS6177-FinalProject#readme"
+}
