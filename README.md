@@ -12,10 +12,15 @@
 </ul>
 <p>This method takes an image url as an input, then the api communicates with the azure computer vision api, and returns a json file of important or noticable aspects about the image</p>
 <p>A sample url that will return a status 200 is https://i.stack.imgur.com/jYikH.jpg</p>
-<h3 style="color:lightpink;" >Extract Text from an Image</h3>
+<p>Sample output</p>
+<img src="image1.png">
+          
+<h3 style="color:blue" >Extract Text from an Image</h3>
 <ul>
   <li>Endpoint: http://157.245.253.65:3001/postocr </li>
    <li>Method: Post</li>
 </ul>
 <p>This method takes an image url as an input, then the api communicates with the azure computer vision api, and returns a json file of readable text from the image</p>
 <p>A sample url that will return a status 200 is https://i.stack.imgur.com/jYikH.jpg</p>
+<p>Sample output</p>
+<img src="image2.png">
