@@ -1,9 +1,9 @@
 <h1>ITIS6177-FinalProject</h1>
 <h2>Index</h2>
 <ul>
-  <li><a href = "https://github.com/Jessicaruss99/ITIS6177-FinalProject#SwaggerDocumentation"> Swagger Documentation</li>
-   <li>Introduction</li>
-   <li>Functions</li>
+  <li><a href = "https://github.com/Jessicaruss99/ITIS6177-FinalProject#swagger-documentation"> Swagger Documentation</li>
+   <li><a href = "https://github.com/Jessicaruss99/ITIS6177-FinalProject#introduction">Introduction</li>
+   <li><a href = "https://github.com/Jessicaruss99/ITIS6177-FinalProject#functions">Functions</li>
 </ul>
 <h2 id = "swagger" >Swagger Documentation</h2>
 <p><a href = "http://157.245.253.65:3001/docs"> Available here</p>
