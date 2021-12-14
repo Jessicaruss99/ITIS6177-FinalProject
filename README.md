@@ -1,5 +1,11 @@
 <h1>ITIS6177-FinalProject</h1>
-<h2  style="color:pink;">Swagger Documentation</h2>
+<h2>Index</h2>
+<ul>
+  <li><a href = "https://github.com/Jessicaruss99/ITIS6177-FinalProject#SwaggerDocumentation"> Swagger Documentation</li>
+   <li>Introduction</li>
+   <li>Functions</li>
+</ul>
+<h2 id = "swagger" >Swagger Documentation</h2>
 <p><a href = "http://157.245.253.65:3001/docs"> Available here</p>
 <h2>Introduction</h2>
 <p>The Microsoft Azure Computer Vision API is an AI that analyzes the contents of images. With this API, you can indirectly access the computer vision api and analyze images and extract text from an image as well</p>
